@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "id": "11a1",
+      "date": "2024-08-04",
+      "description": "Bible",
+      "category": "God's Word",
+      "amount": "3600"
+    },
+    {
+      "id": "4fe7",
+      "date": "2024-08-04",
+      "description": "Toyota Corolla Cross HEV",
+      "category": "Vehicle",
+      "amount": "42000"
+    },
+    {
+      "id": "5766",
+      "date": "2024-08-04",
+      "description": "Laptop",
+      "category": "Computation",
+      "amount": "3600"
+    }
+  ]
+}
